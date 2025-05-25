@@ -26,8 +26,5 @@ Once you have entered your guess, the game will return the hint to go either low
 
 You will win if you can guess the right number in the limited attempts; otherwise, the game will be over with you being a loser! HAHA 
 
-'l' means the player's guess is low, 'h' for high, 'e' for equal. We allow a little bit of dirty playing where you don't let the computer win. Why? Because you can (we are on your side).
-
-After taking revenge, you can quit or play again. And that's all. Good luck!
-
+The hints include 'l', which means the player's guess is low, 'h', which means high, and 'e', which means equal. Also, we added another hint system that lets you know whether the first digit of your guess is correct or not. Easy, right? Good luck!
 
